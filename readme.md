@@ -100,3 +100,5 @@ if __name__ == "__main__":
 ```
 run the script, and then visit `http://localhost:3000` to see the monitoring and tracking board in action.
 
+## more resources on langfuse usecase
+https://langfuse.com/docs/sdk/python/example
